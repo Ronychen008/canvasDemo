@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f62087a-3be3-487e-ad0c-dea9045c5812" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/haha/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/canvas-刮刮卡.html" beforeDir="false" afterPath="$PROJECT_DIR$/canvas-刮刮卡.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvas-变换.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvas-图片动画.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvas-圆弧arcTo.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -71,7 +71,7 @@
       <workItem from="1587905950331" duration="2578000" />
       <workItem from="1587993624619" duration="122000" />
       <workItem from="1587993756684" duration="1991000" />
-      <workItem from="1588031642486" duration="959000" />
+      <workItem from="1588031642486" duration="2348000" />
     </task>
     <servers />
   </component>
