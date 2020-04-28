@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<style>
+    #demo{
+        background: #fff;
+        position: absolute;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+    }
+</style>
+<body>
+<div>
+    <canvas id="demo" width="1200" height="600">你的浏览器暂不支持canvas</canvas>
+</div>
+<script type="text/javascript">
+    const canvas = document.getElementById('demo');
+    if(canvas.getContext){
+        const ctx =canvas.getContext('2d');
+        let flag=0;
+        let val =0;
+        setInterval(()=>{
+            ctx.clearRect(0,0,canvas.width,canvas.height)
+            flag ++;
+            val+=10;
+            if(flag===9){
+               flag=1;
+            }
+            const img =new Image();
+            img.src='images/run-'+(flag)+'.jpg';
+            img.onload=function(){
+                draw(this);
+            };
+            },100);
+        function draw(img){
+            if(val>1200){
+                val=0
+            }
+            ctx.drawImage(img,val,0)
+        }
+    }
+</script>
+</body>
+</html>
