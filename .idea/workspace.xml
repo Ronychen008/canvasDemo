@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f62087a-3be3-487e-ad0c-dea9045c5812" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/canvas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/canvas-刮刮卡.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/canvas-变换.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/canvas-图片动画.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/canvas-圆弧arcTo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/111.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demo1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demo2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/run-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/run-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/run-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/run-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/run-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/run-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/run-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ss.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvas-刮刮卡.html" beforeDir="false" afterPath="$PROJECT_DIR$/canvas-刮刮卡.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvas-变换.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvas-图片动画.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvas-圆弧arcTo.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +71,7 @@
       <workItem from="1587905950331" duration="2578000" />
       <workItem from="1587993624619" duration="122000" />
       <workItem from="1587993756684" duration="1991000" />
-      <workItem from="1588031642486" duration="669000" />
+      <workItem from="1588031642486" duration="959000" />
     </task>
     <servers />
   </component>
