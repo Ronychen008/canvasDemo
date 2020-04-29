@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f62087a-3be3-487e-ad0c-dea9045c5812" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/haha/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvas-刮刮卡.html" beforeDir="false" afterPath="$PROJECT_DIR$/canvas-刮刮卡.html" afterDir="false" />
-    </list>
+    <list default="true" id="9f62087a-3be3-487e-ad0c-dea9045c5812" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
